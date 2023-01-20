@@ -1,0 +1,13 @@
+.container .col_1 {
+  display: flex;
+  flex-direction: column;
+  gap: 139px;
+}
+.container .col_1 img:nth-child(1) {
+  width: 173.76px;
+  height: 36px;
+}
+.container .col_1 img:nth-child(2) {
+  width: 600px;
+  height: 337.57px;
+}/*# sourceMappingURL=LoginPage.module.css.map */
